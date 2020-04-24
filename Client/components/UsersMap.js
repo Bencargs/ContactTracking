@@ -6,7 +6,7 @@ const usersMap = props => {
     let userLocationMarker = null;
 
     if (props.userLocation) {
-        userLocationMarker = <MapView.Marker coordinate={props.userLocation} />
+        userLocationMarker = <MapView.Marker coordinate={props.userLocation} />;
     }
     const usersMarkers = props.usersPlaces.map(userPlace => (
         <MapView.Marker coordinate={userPlace} key={userPlace.id} />
