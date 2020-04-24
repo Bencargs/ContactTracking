@@ -7,5 +7,5 @@
 5. App will have the capability to query server to see if its Id is on an infected contacts list
 
 <p align="center">
-  <img src="https://github.com/Bencargs/EpidemicSimulator/blob/master/EpidemicSimulator/Output/output.gif">
+  <img src="https://github.com/Bencargs/ContactTracking/blob/master/Demo/default.JPG">
 </p>
